@@ -15,15 +15,15 @@
   Pour exécuter le programme il faut exécuter la commande "./TP8" à la racine du projet avec en argument la méthode à utiliser.
   -  Pour la méthode de César :   
   ```
-  ./TP8 Cesar
+  ./Code Cesar
   ```
   - Pour la méthode de Vigenère : 
   ```
-  ./TP8 Vigenere
+  ./Code Vigenere
   ```
   - Pour la méthode de Scytale :
   ```
-  ./TP8 Scytale
+  ./Code Scytale
   ``` 
 
 ## Documentation :
